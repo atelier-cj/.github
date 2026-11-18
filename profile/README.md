@@ -41,7 +41,8 @@
 | [JSON-RPC](https://atelier-ai.top/libs/json-rpc) | `ystyle::jsonrpc` | 协议底座 | JSON-RPC 2.0，五种传输 |
 | [LLM API](https://atelier-ai.top/libs/llm-api) | `llm_api` | 基础 | OpenAI / Anthropic / Ollama 统一封装 |
 
-源码托管在 [AtomGit](https://atomgit.com/ystyle)，版本以中心仓可拉取为准。
+主仓在 [AtomGit](https://atomgit.com/ystyle)，本组织下的同名仓是**只读镜像**（`git push` 请提到主仓）。
+版本以中心仓可拉取为准。
 
 ## 产品
 
