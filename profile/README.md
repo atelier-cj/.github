@@ -8,6 +8,8 @@
 
 [官网](https://atelier-ai.top) · [文档](https://atelier-ai.top/guide/) · [生态全景](https://atelier-ai.top/ecosystem/) · [AtomGit](https://atomgit.com/ystyle)
 
+<sub>**中文** · [English](https://github.com/atelier-cj/.github/blob/main/profile/README.en.md)</sub>
+
 </div>
 
 ---
